@@ -1,0 +1,6 @@
+name: BC User
+description: Provides user functionality for the site.
+package: BC
+
+type: module
+core_version_requirement: ^9 || ^10
